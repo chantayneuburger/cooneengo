@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beofieyece.votemperserlliures.com/sitemap.xml
